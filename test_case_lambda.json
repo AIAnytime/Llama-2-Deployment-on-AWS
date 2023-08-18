@@ -1,0 +1,8 @@
+{
+  "httpMethod": "Get",
+  "path": "/example",
+  "queryStringParameters": {
+    "query": "How should i take care of my pet dog in winter?",
+    "param2": "value2"
+  }
+}
