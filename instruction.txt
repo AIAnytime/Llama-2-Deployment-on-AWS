@@ -1,0 +1,20 @@
+create a lambda function from scratch
+
+write the code
+
+deploy
+
+write test case
+
+and then attach policies in IAM for that lambda: assign all full access to sagemaker
+
+function url:
+
+make it none
+buffered
+cross origin selected
+allow origin: *
+
+now open the url and paste it:
+
+{url}/?query=query
